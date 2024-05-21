@@ -1,0 +1,18 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 56AC-1264
+
+ Directory of C:\Users\Yash Joshi\Documents\GitHub\YouTubeClone-Jenkins-Terraform-SonarQube-EKS
+
+2024-05-20  07:40 PM    <DIR>          .
+2024-05-20  05:18 PM    <DIR>          ..
+2024-05-20  07:39 PM               102 .gitignore
+2024-05-20  07:40 PM    <DIR>          .idea
+2024-05-20  05:10 PM             2,450 config
+2024-05-20  07:40 PM                 0 dir.txt
+2024-05-20  01:44 PM    <DIR>          Jenkins-SonarQube-VM
+2024-05-20  03:10 PM    <DIR>          Monitoring-Server
+2024-05-20  05:11 PM             2,450 secret.txt
+2024-05-20  03:14 AM    <DIR>          venv
+2024-05-20  03:14 AM               427 YouTubeClone-Jenkins-Terraform-SonarQube-EKS.iml
+               5 File(s)          5,429 bytes
+               6 Dir(s)  282,172,706,816 bytes free

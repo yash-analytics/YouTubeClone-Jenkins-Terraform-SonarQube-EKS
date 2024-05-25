@@ -1,4 +1,4 @@
-# YouTube Clone - DevOps CI/CD Pipeline with Jenkins and Terraform
+# YouTube Clone - DevSecOps
 
 ## Project Description
 

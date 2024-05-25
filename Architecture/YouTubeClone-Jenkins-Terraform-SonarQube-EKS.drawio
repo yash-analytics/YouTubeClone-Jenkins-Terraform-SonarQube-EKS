@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T23:25:14.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TdlyE4Az6phLhoioDksZ" version="24.4.8" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-25T05:37:25.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gpSRm1KQ4aduWTOOhx1H" version="24.4.8" type="device">
   <diagram id="cdb5e136-1861-7ef1-5e76-c57f7e18aa8d" name="ERD Data Structure - Habit Tracker App">
-    <mxGraphModel dx="1400" dy="696" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="700" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="881" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uCg-w2PVsBksb2t_EY_W-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CCCCCC;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="6" y="4.23" width="1089" height="688.77" as="geometry" />
+        </mxCell>
         <mxCell id="uCg-w2PVsBksb2t_EY_W-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#003f5c;strokeWidth=1.5;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="245" y="523" width="833" height="157" as="geometry" />
         </mxCell>
@@ -173,9 +176,6 @@
             <mxPoint x="631" y="613.71" as="sourcePoint" />
             <mxPoint x="677" y="613.71" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="uCg-w2PVsBksb2t_EY_W-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#CCCCCC;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="6" y="4.23" width="1089" height="688.77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
